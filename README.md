@@ -1,7 +1,5 @@
 # Assignment 2: Bayesian Network Representation and Inference
 
-**CS 6364 Artificial IntelligenceDeadline: November 20, 11:59 PM**
-
 ## Overview
 
 This assignment focuses on implementing and analyzing Bayesian Networks (BNs) for probabilistic queries in a healthcare domain. The project involves working with a BN designed for a hospital's referral center for newborn babies with congenital heart disease, aiding in preliminary diagnosis and early treatment decisions.
@@ -104,11 +102,5 @@ The assignment uses several key components:
 
 Spiegelhalter, David J., et al. "Bayesian analysis in expert systems." Statistical Science (1993): 219-247.
 
-## Notes
-
-- Ensure proper documentation of all code
-- Follow provided code structure
-- Verify CSV file formatting
-- Include comprehensive analysis in the report
 
 <br>
